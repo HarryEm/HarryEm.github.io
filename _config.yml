@@ -12,8 +12,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   having visited over 50 countries. In my free time I love socialising, music,
   and sport, and am currently training for my first marathon.
   <br><br>
-  [//]: # <a href="https://www.linkedin.com/in/harryemeric">LinkedIn</a> -
-  [//]: # <a href="https://github.com/HarryEm">github</a>
+  <a href="https://www.linkedin.com/in/harryemeric">LinkedIn</a> -
+  <a href="https://github.com/harryem">github</a>
 
 
 theme: jekyll-theme-minimal
