@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Exploring Box Convolutional Layers](https://github.com/dkang9503/cs231n_project_box_convolution/blob/master/Final_Report.pdf)
+<img src="images/box_conv_converged.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
