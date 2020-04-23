@@ -2,7 +2,7 @@
 
 ---
 
-### Projects
+### Selected Projects
 
 [Exploring Box Convolutional Layers](https://github.com/dkang9503/cs231n_project_box_convolution/blob/master/Final_Report.pdf)
 
