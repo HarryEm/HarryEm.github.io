@@ -5,25 +5,19 @@
 ### Category Name 1
 
 [Exploring Box Convolutional Layers](https://github.com/dkang9503/cs231n_project_box_convolution/blob/master/Final_Report.pdf)
+
 <img src="images/box_conv_converged.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Causal Inference in Kickstarter Campaigns](https://github.com/HarryEm/MSE327Project/blob/master/Final_Report.pdf)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/TreatmentControlBars.png?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Resume](/pdf/Resume_Fall19.pdf)
 
 ---
 
