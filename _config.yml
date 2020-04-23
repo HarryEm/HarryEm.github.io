@@ -2,17 +2,18 @@ title: Harry Emeric # your name (or website title) here
 logo: "/images/HarryBrooklynBridge.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm a second year masters student in Statistics (Data Science specialisation)
-  interested in how Applied ML and Statistics can be used for social good.
+  at Stanford passionate about how Applied ML and Statistics can be used for
+  social good.
   <br><br>
-  Prior to Stanford I worked in Wall Street as a trader for 9 years, leaving
-  because I wanted a more technical challenge.
+  Prior to Stanford I worked in Wall Street as trader for 9 years, where I was
+  responsible for cross asset and cross regional ETF trading.
   <br><br>
   I've lived in London, New York and the Bay Area, and am an avid traveller
   having visited over 50 countries. In my free time I love socialising, music,
   and sport, and am currently training for my first marathon.
   <br><br>
-  <a href="https://www.linkedin.com/in/harryemeric">View My LinkedIn Profile</a>
-  <a href="https://github.com/HarryEm">github</a>
+  [//]: # <a href="https://www.linkedin.com/in/harryemeric">LinkedIn</a> -
+  [//]: # <a href="https://github.com/HarryEm">github</a>
 
 
 theme: jekyll-theme-minimal
