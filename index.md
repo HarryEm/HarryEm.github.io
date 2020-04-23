@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1
+### Projects
 
 [Exploring Box Convolutional Layers](https://github.com/dkang9503/cs231n_project_box_convolution/blob/master/Final_Report.pdf)
 
@@ -15,7 +15,7 @@
 
 ---
 
-### Category Name 2
+### Professional Information
 
 - [Resume](/pdf/Resume_Fall19.pdf)
 
@@ -25,5 +25,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
