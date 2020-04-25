@@ -14,14 +14,14 @@
 <img src="images/TreatmentControlBars.png?raw=true"/>
 
 ---
+[Detection of Brain Aneurysms using CNNs](pdf/CS230 Project Final Report JQHE.pdf)
+
+<img src="images/CS230_image_aneur_egs.png?raw=true"/>
+
+---
 
 ### Professional Information
 
 - [Resume](/pdf/Resume_Fall19.pdf)
-
----
-
-
-
 
 ---
