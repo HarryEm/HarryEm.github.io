@@ -22,6 +22,6 @@
 
 ### Professional Information
 
-- [Resume](/pdf/Resume_Fall19.pdf)
+- [Resume](/pdf/Resume_Spring20.pdf)
 
 ---
